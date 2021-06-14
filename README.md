@@ -1,1 +1,1 @@
-# FakeItemIdentification application using Blockchain
+# Fake Item Identification application using Blockchain
